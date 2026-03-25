@@ -12,7 +12,7 @@ public class Task2 {
         String output = "" + H + three + one + one + zero + " w" + zero + "r" + one + "d " 
                         + twoPointZero + " " + truth;
 
-        // print result
+        // print result = "H3ll0 w0rld 2.0 true"
         System.out.println(output);
     }
 }
