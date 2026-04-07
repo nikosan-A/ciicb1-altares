@@ -1,6 +1,6 @@
 public class Task2 {
     public static void main(String[] args) {
-        // primitives
+        // primitives samples
         char H = 'H';
         byte three = 3;
         int one = 1;

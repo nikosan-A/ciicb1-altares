@@ -4,7 +4,7 @@ public class Task4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Step 1: Take input string
+        // Step 1: Take input string 
         System.out.print("Enter a string: ");
         String input = scanner.nextLine();
 

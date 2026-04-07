@@ -3,7 +3,7 @@ public class Task3 {
         
 String a = "Wow";          // use the same literal
 String b = "Wow";          // same reference from string pool
-String c = "Boo";    // must differ from a
+String c = "Boo";    // must differ from a 
 String d = "Wow!";         // matches b + "!"
 
 boolean b1 = a == b;                  // true (same reference in pool)
